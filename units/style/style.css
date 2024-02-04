@@ -1,0 +1,129 @@
+body{
+    background-color: white;
+}
+.card-fiesta{
+    color: black;
+    margin-left: 100px;
+    font-size: 20px;
+}
+.li-1{
+    color: black;
+    display: block;
+    margin-left: 300px;
+    margin-top: -35px;
+}
+.li-2{
+    color: black;
+    display: block;
+    margin-left: 390px;
+    margin-top: -17px;
+}
+.li-3{
+    color: black;
+    display: block;
+    margin-left: 490px;
+    margin-top: -17px;
+}
+.li-4{
+    color: black;
+    display: block;
+    margin-left: 580px;
+    margin-top: -17px;
+}
+.li-5{
+    color: black;
+    display: block;
+    margin-left: 680px;
+    margin-top: -17px;
+}
+.li-6{
+    color: black;
+    display: block;
+    margin-left: 780px;
+    margin-top: -17px;
+}
+img{
+    width: 555px;
+    height: 608px;
+    margin-left: 100px;
+    margin-top: -5px;
+}
+.p{
+    color: black;
+    margin-left: 1000px;
+    margin-top: -530px;
+    font-size: 25px;
+}
+.p-1{
+    color: black;
+    margin-left: 790px;
+    font-size: 50px;
+    margin-top: -20px;
+}
+.p-2{
+    color: black;
+    margin-left: 950px;
+    margin-top: -20px;
+}
+.button-1{
+    background-color: black;
+    width: 170px;
+    height: 40px;
+    margin-left: 1070px;
+    margin-top: 20px;
+}
+.card-embarkonsavings{
+    color: white;
+    margin-left: 1090px;
+    margin-top: -30px;
+    font-size: 17px;
+}
+.box{
+    width: 33px;
+    height: 60px;
+    background-color: red;
+    margin-left: 1100px;
+    margin-top: 125px;
+}
+.card-upto{
+    color: white;
+    margin-left: 1100px;
+    margin-top: -57px;
+    font-size: 23px;
+}
+.box-1{
+    width: 65px;
+    height: 60px;
+    background-color: black;
+    margin-left: 1135px;
+    margin-top: -55px;
+}
+.p-3{
+    color: white;
+    margin-left: 1145px;
+    margin-top: -55px;
+    font-size: 25px;
+}
+.box-2{
+    width: 101px;
+    height: 25px;
+    background-color: red;
+    margin-left: 1100px;
+    margin-top: -22px;
+}
+.card-discound{
+    color: white;
+    margin-left: 1113px;
+    font-size: 20px;
+    margin-top: -25px;
+}
+i-1{
+    color: black;
+    margin-top: -595px;
+    position: absolute;
+    margin-left: 1150px;
+}
+i-2{
+    color: black;
+    margin-left: 40px;
+}
